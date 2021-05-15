@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sanchakshkaul@gmail.com** or **ping me over  at [my website](https://sanchaksh.jimdosite.com/)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WaE8_QyrrWQYCI-0c3B6QT4eaVgQW5ip/view?usp=sharing](https://drive.google.com/file/d/1WaE8_QyrrWQYCI-0c3B6QT4eaVgQW5ip/view?usp=sharing)
+- 📄 Know about my experiences in my **[Resume](http://bit.ly/KaulResume)**
 
 - ⚡ Fun fact **I can sing...**
 
