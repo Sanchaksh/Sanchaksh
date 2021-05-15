@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GChat](https://github.com/Sanchaksh/GChat)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js** and **Dart**
 
 - 👯 I’m looking to collaborate on **Any Projects as per my skillset**
 
