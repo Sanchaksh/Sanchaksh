@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanchaksh/](https://github.com/Sanchaksh/)
 
-- 📝 I Have my portfolio at [https://sanchaksh.jimdosite.com/](https://sanchaksh.jimdosite.com/)
+- 📝 I Have my portfolio at [https://sanchaksh.com/](https://sanchaksh.jimdosite.com/)
 
 - 💬 Ask me about **Flutter, PHP, Firebase**
 
