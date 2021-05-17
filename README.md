@@ -29,4 +29,4 @@
 
 <p><img align="justified" src="https://github-readme-stats.vercel.app/api?username=sanchaksh&theme=radical&show_icons=true&locale=en" alt="sanchaksh" /></p> 
 
-<p><img align="justified" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchaksh&theme=radio" alt="sanchaksh" /></p>
+<p><img align="justified" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchaksh&theme=radical" alt="sanchaksh" /></p>
