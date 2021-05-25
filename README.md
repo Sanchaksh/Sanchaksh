@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Newz](https://github.com/Sanchaksh/newz)
 
-- 🌱 I’m currently learning **React Js** and **Dart**
+- 🌱 I’m currently learning about **APIs** and **Flutter**
 
 - 👯 I’m looking to collaborate on **Any Projects as per my skillset**
 
