@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchaksh&label=Profile%20views&color=0e75b6&style=flat" alt="sanchaksh" /> </p>
 
-- 🔭 I’m currently working on [GChat](https://github.com/Sanchaksh/GChat)
+- 🔭 I’m currently working on [Newz](https://github.com/Sanchaksh/GChat)
 
 - 🌱 I’m currently learning **React Js** and **Dart**
 
