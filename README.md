@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [Newz](https://github.com/Sanchaksh/newz)
 
+- 🔭 Placment Cell webite is hosted over at [Placement Website](www.placewebs.tk)
+
 - 🌱 I’m currently learning about **APIs** and **Flutter**
 
 - 👯 I’m looking to collaborate on **Any Projects as per my skillset**
