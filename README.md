@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Newz](https://github.com/Sanchaksh/newz)
 
-- 🔭 Placment Cell website is hosted over at [Placement Website](www.placewebs.tk)
+- 🔭 Placment Cell website is hosted over at www.placewebs.tk
 
 - 🌱 I’m currently learning about **APIs** and **Flutter**
 
