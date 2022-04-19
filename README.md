@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanchaksh Kaul</h1>
+<h1 align="center">Hi 👋, I'm Sanchaksh</h1>
 <h3 align="center">A Software Engineering Intern @Oracle</h3>
 <h3 align="center">Actually an Electronics and Computer Engineer</h3>
 
