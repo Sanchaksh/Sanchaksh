@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchaksh&label=Profile%20views&color=0e75b6&style=flat" alt="sanchaksh" /> </p>
 
-- 🔭 I’m currently working on [Newz](https://github.com/Sanchaksh/newz)
-
 - 🔭 Placment Cell website is hosted over at www.placewebs.tk
 
 - 🌱 I’m currently learning about **APIs** and **Flutter**
