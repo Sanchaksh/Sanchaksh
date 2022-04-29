@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchaksh&label=Profile%20views&color=0e75b6&style=flat" alt="sanchaksh" /> </p>
 
-- 🔭 Placment Cell website is hosted over at www.placewebs.tk
-
-- 🌱 I’m currently learning about **APIs** and **Flutter**
+- 🌱 I’m currently learning about **APIs** and **SpringBoot**
 
 - 👯 I’m looking to collaborate on **Any Projects as per my skillset**
 
