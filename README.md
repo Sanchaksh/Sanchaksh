@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sanchaksh Kaul</h1>
-<h3 align="center">A Software Engineering Intern @Oracle</h3>
+<h3 align="center">A Software Engineering @Oracle</h3>
 <h3 align="center">Actually an Electronics and Computer Engineer</h3>
-<h3 align="center">Java & Springboot Developer</h3>
+<h3 align="center">Java, Springboot & React Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchaksh&label=Profile%20views&color=0e75b6&style=flat" alt="sanchaksh" /> </p>
 
-- 🌱 I’m currently learning about **APIs** and **SpringBoot**
+- 🌱 I’m currently learning about **MultiThreading** and **Cloud Infrastructure**
 
-- 👯 I’m looking to collaborate on **Any Projects as per my skillset**
+- 👯 I’m looking to collaborate on **Any Projects that seem interesting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanchaksh/](https://github.com/Sanchaksh/)
 
 - 📝 I Have my portfolio at [https://sanchaksh.com/](https://sanchaksh.jimdosite.com/)
 
-- 💬 Ask me about **Flutter, PHP, Firebase**
+- 💬 Ask me about **Flutter, PHP, Firebase, Java, React, TypeScript**
 
 - 📫 How to reach me **sanchakshkaul@gmail.com** or **ping me over  at [my website](https://sanchaksh.jimdosite.com/)**
 
